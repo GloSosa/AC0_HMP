@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WWjoGrGd0VCISx22aMCNqCz1Y0m/VGFDnK5y9CLHBFgyO3ngUOb8wmg+3ePoTxFerMRXDtMTQc+yrN7KqVz24A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hugom\\Desktop\\DAW\\Programacion\\Clase1\\Clase1\\Clase1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugom\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\hugom\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\hugom\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\hugom\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

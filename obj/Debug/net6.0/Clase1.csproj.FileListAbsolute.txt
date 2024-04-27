@@ -1,0 +1,43 @@
+C:\Users\Marc\Desktop\Clase1\bin\Debug\net6.0\Clase1.exe
+C:\Users\Marc\Desktop\Clase1\bin\Debug\net6.0\Clase1.deps.json
+C:\Users\Marc\Desktop\Clase1\bin\Debug\net6.0\Clase1.runtimeconfig.json
+C:\Users\Marc\Desktop\Clase1\bin\Debug\net6.0\Clase1.dll
+C:\Users\Marc\Desktop\Clase1\bin\Debug\net6.0\Clase1.pdb
+C:\Users\Marc\Desktop\Clase1\obj\Debug\net6.0\Clase1.csproj.AssemblyReference.cache
+C:\Users\Marc\Desktop\Clase1\obj\Debug\net6.0\Clase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marc\Desktop\Clase1\obj\Debug\net6.0\Clase1.AssemblyInfoInputs.cache
+C:\Users\Marc\Desktop\Clase1\obj\Debug\net6.0\Clase1.AssemblyInfo.cs
+C:\Users\Marc\Desktop\Clase1\obj\Debug\net6.0\Clase1.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Desktop\Clase1\obj\Debug\net6.0\Clase1.dll
+C:\Users\Marc\Desktop\Clase1\obj\Debug\net6.0\refint\Clase1.dll
+C:\Users\Marc\Desktop\Clase1\obj\Debug\net6.0\Clase1.pdb
+C:\Users\Marc\Desktop\Clase1\obj\Debug\net6.0\Clase1.genruntimeconfig.cache
+C:\Users\Marc\Desktop\Clase1\obj\Debug\net6.0\ref\Clase1.dll
+G:\Mi unidad\DAW\M05-ENTORNS\UF3\CLASE1\Clase1\bin\Debug\net6.0\Clase1.exe
+G:\Mi unidad\DAW\M05-ENTORNS\UF3\CLASE1\Clase1\bin\Debug\net6.0\Clase1.deps.json
+G:\Mi unidad\DAW\M05-ENTORNS\UF3\CLASE1\Clase1\bin\Debug\net6.0\Clase1.runtimeconfig.json
+G:\Mi unidad\DAW\M05-ENTORNS\UF3\CLASE1\Clase1\bin\Debug\net6.0\Clase1.dll
+G:\Mi unidad\DAW\M05-ENTORNS\UF3\CLASE1\Clase1\bin\Debug\net6.0\Clase1.pdb
+G:\Mi unidad\DAW\M05-ENTORNS\UF3\CLASE1\Clase1\obj\Debug\net6.0\Clase1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\DAW\M05-ENTORNS\UF3\CLASE1\Clase1\obj\Debug\net6.0\Clase1.AssemblyInfoInputs.cache
+G:\Mi unidad\DAW\M05-ENTORNS\UF3\CLASE1\Clase1\obj\Debug\net6.0\Clase1.AssemblyInfo.cs
+G:\Mi unidad\DAW\M05-ENTORNS\UF3\CLASE1\Clase1\obj\Debug\net6.0\Clase1.csproj.CoreCompileInputs.cache
+G:\Mi unidad\DAW\M05-ENTORNS\UF3\CLASE1\Clase1\obj\Debug\net6.0\Clase1.dll
+G:\Mi unidad\DAW\M05-ENTORNS\UF3\CLASE1\Clase1\obj\Debug\net6.0\refint\Clase1.dll
+G:\Mi unidad\DAW\M05-ENTORNS\UF3\CLASE1\Clase1\obj\Debug\net6.0\Clase1.pdb
+G:\Mi unidad\DAW\M05-ENTORNS\UF3\CLASE1\Clase1\obj\Debug\net6.0\Clase1.genruntimeconfig.cache
+G:\Mi unidad\DAW\M05-ENTORNS\UF3\CLASE1\Clase1\obj\Debug\net6.0\ref\Clase1.dll
+C:\Users\hugom\Desktop\DAW\Programacion\Clase1\Clase1\obj\Debug\net6.0\Clase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugom\Desktop\DAW\Programacion\Clase1\Clase1\obj\Debug\net6.0\Clase1.AssemblyInfoInputs.cache
+C:\Users\hugom\Desktop\DAW\Programacion\Clase1\Clase1\obj\Debug\net6.0\Clase1.AssemblyInfo.cs
+C:\Users\hugom\Desktop\DAW\Programacion\Clase1\Clase1\obj\Debug\net6.0\Clase1.csproj.CoreCompileInputs.cache
+C:\Users\hugom\Desktop\DAW\Programacion\Clase1\Clase1\obj\Debug\net6.0\Clase1.dll
+C:\Users\hugom\Desktop\DAW\Programacion\Clase1\Clase1\obj\Debug\net6.0\refint\Clase1.dll
+C:\Users\hugom\Desktop\DAW\Programacion\Clase1\Clase1\obj\Debug\net6.0\Clase1.pdb
+C:\Users\hugom\Desktop\DAW\Programacion\Clase1\Clase1\bin\Debug\net6.0\Clase1.exe
+C:\Users\hugom\Desktop\DAW\Programacion\Clase1\Clase1\bin\Debug\net6.0\Clase1.deps.json
+C:\Users\hugom\Desktop\DAW\Programacion\Clase1\Clase1\bin\Debug\net6.0\Clase1.runtimeconfig.json
+C:\Users\hugom\Desktop\DAW\Programacion\Clase1\Clase1\bin\Debug\net6.0\Clase1.dll
+C:\Users\hugom\Desktop\DAW\Programacion\Clase1\Clase1\bin\Debug\net6.0\Clase1.pdb
+C:\Users\hugom\Desktop\DAW\Programacion\Clase1\Clase1\obj\Debug\net6.0\Clase1.genruntimeconfig.cache
+C:\Users\hugom\Desktop\DAW\Programacion\Clase1\Clase1\obj\Debug\net6.0\ref\Clase1.dll
